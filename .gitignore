@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Compiled CUDA extension build artifacts
+build/
+*.so
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor/OS clutter
+.DS_Store
+*.egg-info/
+
+# VS Code Zone.Identifier files (Windows metadata clutter, harmless but noisy)
+*:Zone.Identifier
